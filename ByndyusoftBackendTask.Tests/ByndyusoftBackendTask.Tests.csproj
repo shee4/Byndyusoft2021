@@ -44,6 +44,7 @@
     <ItemGroup>
         <Compile Include="SmallestPairScannerTests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="SumOfSmallestPairContainerTests.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\ByndyusoftBackendTask\ByndyusoftBackendTask.csproj">
